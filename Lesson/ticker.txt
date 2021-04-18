@@ -1,0 +1,7 @@
+MSFT 마이크로소프트 
+AAPL 애플
+TSLA 테슬라
+NKE 나이비
+AMZN 아마존
+NFLX 넷플릭스
+CPNG 쿠팡
